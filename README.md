@@ -1,4 +1,4 @@
-# Deep_Learning_Exercises
+# Deep_Learning_Exercise 1
 
 implementig Linear Regression
 we have car prices and their sells
